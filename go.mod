@@ -12,12 +12,11 @@ require (
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/hashicorp/vault/api v1.1.0
 	github.com/labstack/echo-contrib v0.9.0
-	github.com/labstack/echo/v4 v4.2.2
-	github.com/labstack/gommon v0.3.0
+	github.com/labstack/echo/v4 v4.9.0
+	github.com/labstack/gommon v0.3.1
 	github.com/magefile/mage v1.11.0
 	github.com/mustafaturan/bus/v2 v2.1.0
 	github.com/mustafaturan/monoton v1.0.0
-	github.com/sirupsen/logrus v1.8.1 // indirect
-	golang.org/x/crypto v0.0.0-20210415154028-4f45737414dc // indirect
-	gopkg.in/yaml.v2 v2.4.0 // indirect
+	github.com/sirupsen/logrus v1.8.1
+	gopkg.in/yaml.v2 v2.4.0
 )
