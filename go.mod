@@ -17,7 +17,7 @@ require (
 	github.com/magefile/mage v1.11.0
 	github.com/mustafaturan/bus/v2 v2.1.0
 	github.com/mustafaturan/monoton v1.0.0
-	github.com/sirupsen/logrus v1.8.1 // indirect
-	golang.org/x/crypto v0.0.0-20210415154028-4f45737414dc // indirect
-	gopkg.in/yaml.v2 v2.4.0 // indirect
+	github.com/sirupsen/logrus v1.8.1
+	golang.org/x/crypto v0.1.0 // indirect
+	gopkg.in/yaml.v2 v2.4.0
 )
